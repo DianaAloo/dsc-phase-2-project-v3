@@ -25,7 +25,7 @@ We utilized exploratory data analysis (EDA) techniques, combining data from mult
 
 Big companies in media are seeking success by producing original video content. Our company wants to enter this space but lacks experience in making movies. The goal is to identify what types of films are most successful at the box office so the new movie studio can make informed decisions.
 
-### Key Questions:
+### Key Objective Questions:
 
 - What genres and film types are consistently performing well?  
 - How do budgets and revenues relate to success?  
