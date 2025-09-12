@@ -5,6 +5,15 @@ This project explores movie industry data to generate actionable insights for bu
 We utilized exploratory data analysis (EDA) techniques, combining data from multiple sources including Box Office Mojo, IMDB, Rotten Tomatoes, TheNumbers, and TheMovieDB.
 
 ---
+## Non Technical Presentation
+
+We have included a  Canvas Non Technical Presentation for this project to summarize key points for non-technical audiences.
+
+You can find the presentation PDF here:  
+[Group 15 Phase 2 Project Non Technical Slide.pdf](./Group%2015%20Phase%202%20Project_Non%20Technical%20Slide.pdf)
+
+Please review this file for an easy-to-understand overview of our project.
+
 
 ## 📌 Table of Contents
 
